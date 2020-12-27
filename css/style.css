@@ -183,8 +183,8 @@ figure {
 img {
   vertical-align: middle;
   border-style: none; 
-object-position: center;
-object-fit: cover;
+  object-position: center;
+  object-fit: cover;
 }
 
 svg:not(:root) {
